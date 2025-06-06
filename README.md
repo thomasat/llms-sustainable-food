@@ -1,4 +1,4 @@
-Code to reproduce the results of "What can large language models do for sustainable food?" in ICML 2025.
+Code to reproduce the results of ["What can large language models do for sustainable food?"](https://arxiv.org/abs/2503.04734) in ICML 2025.
 
 Please cite as:
 
