@@ -1,0 +1,5 @@
+Code to reproduce the results of "What can large language models do for sustainable food?" in ICML 2025.
+
+Please cite as:
+
+Anna Thomas, Adam Yee, Andrew Mayne, Maya Mathur, Dan Jurafsky, Kristina Gligorić. What can large language models do for sustainable food? International Conference on Machine Learning, 2025. 
