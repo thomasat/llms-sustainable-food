@@ -1,0 +1,37 @@
+Name,Description,Emissions,Animal Lives,LLM Generated,Ingredients,Predicted Rating
+Pepperoni Melt with Tofu,Enjoy this twist on our classic Pepperoni Melt by swapping meat for tofu.,3.2,0.0,1,"['Tofu', 'triple cheese blend', 'tomato sauce', 'and pepperoni.']",9
+Four Cheese and Mushroom Pizza,A classic pizza with an added layer of flavor.,0.5,0.0,1,"['Mushrooms', 'mozzarella', 'mascarpone', 'fontal', 'grana cheese', 'tomato base.']",9
+Chickpea and Spinach Curry,Warm up with this hearty and flavorful chickpea and spinach curry. ,1.8,0.0,1,"['Chickpeas in a mild curry sauce', 'pickles', 'steamed rice.']",8
+Rustica Veggie Pizza,This meat-free pizza is packed with flavor and will satisfy any pizza lover.,0.5,0.0,1,"['Mushrooms', 'onions', 'smoked mozzarella', 'baby sunblush tomatoes', 'chilli threads', 'riserva cheese.']",8
+Veggie Supreme Pizza,"A classic pizza, loaded with fresh veggies and bursting with flavor.",0.5,0.0,1,"['Mushrooms', 'onions', 'tomato sauce', 'mozzarella', 'fresh basil', 'olive oil', 'garlic oil.']",8
+Spinach and Mushroom Carbonara,This creamy and flavorful pasta dish is sure to please everyone at the table.,0.5,0.0,1,"['Mushrooms', 'spinach', 'pasta', 'mascarpone', 'pecorino', 'Grana Padano cheese.']",8
+Mushroom Bourguignon,Enjoy the rich flavors of our classic Beef Bourguignon with a meat-free twist.,0.5,0.0,1,"['Grilled portobello mushrooms', 'red wine braised onions', 'Raclette cheese. ']",7
+Spicy Jackfruit Pizza,This spicy and delicious pizza is sure to tantalize your taste buds.,1.1,0.0,1,"['Vegan jackfruit peppers', 'spicy harissa', 'roquito chilis', 'vegan mozzarella cheese', 'fresh basil.']",7
+Mushroom and Spinach Meatballs,These flavorful and healthy meatballs are a great alternative to the classic.,0.5,0.0,1,"['Mushrooms', 'spinach', 'rich tomato and fennel sauce.']",7
+Tofu Curry Ramen,"A vegan alternative to our classic Chicken Curry Ramen, with crispy fried tofu. ",3.2,0.0,1,"['Fried tofu', 'noodles', 'curry broth', 'pak choi', 'pickled onions.']",6
+Tofu Katsu Curry,All the goodness of our Chicken Katsu Curry in a satisfying plant-based alternative.,3.2,0.0,1,"['Crispy tofu in Japanese panko crumb', 'mild curry sauce', 'pickles', 'steamed rice.']",6
+Mushroom and Lentil Ragu with Tagliatelle,A hearty and satisfying vegetarian take on our Beef Brisket and Venison Tagliatelle.,0.5,0.0,1,"['Mushroom', 'lentil', 'red wine and vegetable broth ragu', 'tagliatelle', 'fresh bufala mozzarella', 'crispy sage. ']",6
+Mushroom Calzone,"Savory and satisfying, our mushroom calzone is packed full of fresh ingredients.",0.5,0.0,1,"['Mushrooms', 'grilled aubergines', 'roasted peppers', 'oven roasted tomatoes.']",6
+Butternut Squash and Chickpea Salad ,Enjoy all the current flavors of Fall in this colorful salad. ,0.5,0.0,1,"['Roasted butternut squash', 'chickpeas', 'feta cheese', 'pomegranate seeds', 'mixed leaf salad', 'watercress. ']",6
+Lentil Meatballs with Spaghetti,Enjoy this lighter version of our Lamb Meatballs with Spaghetti. ,1.8,0.0,1,"['Handmade lentil patties', 'Greek yoghurt', 'tomato sauce', 'and onions.']",5
+Lentil Bolognese,This lentil bolognese is a hearty and flavorful alternative to our classic spaghetti dish.,1.8,0.0,1,"['Green lentils', 'mixed vegetables in a rich tomato and fennel sauce.']",5
+Chicken Curry Ramen, Japanese fried chicken & noodles in a delicious curry broth,9.9,0.5882352941176471,0,,9
+Pork Ribs, Pork Ribs smothered with Kentucky style BBQ sauce,12.3,0.01040582726326743,0,,9
+Chicken Katsu Curry," Succulent chicken in a crispy Japanese panko crumb with mild curry sauce, pickles and steamed rice",9.9,0.5882352941176471,0,,9
+Beer Battered Fish with Chips, with frites and pea & mint puree,13.6,0.22727272727272727,0,,9
+Halloumi Sticks with Mayo Avocado Dip, Chunky sticks of grilled halloumi cheese with a chilli jam and mayo avocado dip,23.9,0.0,0,,9
+Four Cheese Margherita," Mozzarella, mascarpone, fontal and grana cheese on a tomato base",23.9,0.0,0,,9
+Panchetta Carbonara," crispy pancetta and asparagus in a velvety sauce made with mascarpone, pecorino and Grana Padano cheese",12.3,0.01040582726326743,0,,9
+Rustica Chorizo Pizza," Chorizo salami, torn wild boar and pork meatballs, smoked mozzarella and baby sunblush tomatoes",12.3,0.01040582726326743,0,,8
+Supreme Pizza," Cheese and tomato, onion, mushroom, fresh basil, olive and garlic oil",23.9,0.0,0,,8
+Goat's Cheese Calzone," Goats cheese, grilled aubergines, roasted peppers, oven roasted tomatoes",23.9,0.0,0,,8
+Aromatic Duck Rolls," Aromatic roast duck, hoisin sauce, cucumber, spring onion, rolled in rice paper",9.9,0.0,0,,7
+Butterfly Chicken Burger," Two succulent chicken breasts joined by crispy skin, packaged in a Portuguese roll and topped with tomato and lettuce",9.9,0.5882352941176471,0,,7
+Canelloni," pasta with béchamel, mozzarella and Gran Milano cheese",23.9,0.0,0,,7
+Jack Fruit Arrabiata," Vegan jackfruit peppers, spicy harissa, roquito chilis & vegan Mozzarella cheese, finished with basil",1.1,0.0,0,,7
+Falafel with Tahini," Our signature recipe, served with a tahini dip",1.8,0.0,0,,7
+Aegean Slaw," Thinly shredded cabbage, carrot and red onion peppers, with an olive oil dressing",0.5,0.0,0,,7
+Pork Porchetta," Slow-roasted pork belly in herbed red wine sauce, served with roasted new potatoes and broccoli",12.3,0.01040582726326743,0,,6
+Butternut Squash Salad," Roasted butternut squash with feta cheese, pomegranate seeds, mixed leaf salad and watercress",0.5,0.0,0,,6
+Lentil Linguine Ragu," Rich Italian lentil ragu with baby spinach, tomatoes, basil & pecorino cheese",1.8,0.0,0,,6
+Vegan Spaghetti Lentil Ragu, A hearty ragu of green lentils and mixed vegetables in a rich tomato and fennel sauce,1.8,0.0,0,,5

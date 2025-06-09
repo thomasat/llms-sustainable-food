@@ -1,0 +1,37 @@
+Name,Description,Emissions,Animal Lives,LLM Generated,Ingredients,Predicted Rating
+Creamy Mushroom Tagliatelle  ,"An indulgent pasta dish featuring sautéed mushrooms and baby spinach in a creamy mascarpone sauce, tossed with tagliatelle and seasoned with garlic oil and fresh basil.",0.5,0.0,1,"['Mushrooms', 'tagliatelle pasta', 'mascarpone cheese', 'baby spinach', 'garlic oil', 'basil.  ']",9
+Vegetable Delight Pizza  ,"A delicious crispy pizza topped with mozzarella, tomato sauce, and a medley of grilled vegetables, finished with fresh basil.",23.9,0.0,1,"['Mozzarella', 'tomato sauce', 'grilled aubergines', 'roasted peppers', 'oven-roasted tomatoes', 'fresh basil.  ']",9
+Three Cheese Omelette  ,"A fluffy omelette loaded with smoked cheddar, mozzarella, grana cheese, and sautéed red onions.",4.7,0.0,1,"['Eggs', 'smoked cheddar', 'mozzarella', 'grana cheese', 'red onions.  ']",9
+Eggplant Parmesan  ,"Layers of tender aubergine baked with rich tomato sauce, melted mozzarella, and Grana Padano cheese, garnished with fresh basil.",0.5,0.0,1,"['Aubergine', 'tomato sauce', 'mozzarella', 'Grana Padano cheese', 'basil.  ']",8
+Mushroom and Goat's Cheese Omelette  ,"A fluffy omelette filled with sautéed mushrooms and creamy goat's cheese, infused with garlic oil and fresh basil.",4.7,0.0,1,"['Eggs', 'mushrooms', ""goat's cheese"", 'garlic oil', 'basil.  ']",8
+Chickpea Curry with Rice  ,A flavorful and hearty chickpea curry served with steamed rice and accompanied by tangy pickles.,1.8,0.0,1,"['Chickpeas', 'mild curry sauce', 'pickles', 'steamed rice.  ']",7
+Spinach and Feta Stuffed Mushrooms  ,"Large mushrooms stuffed with sautéed baby spinach and creamy feta cheese, drizzled with garlic oil and baked to perfection.",0.5,0.0,1,"['Mushrooms', 'baby spinach', 'feta cheese', 'garlic oil.  ']",7
+Lentil Veggie Burger  ,"A hearty lentil-based veggie burger served on a toasted brioche bun with fresh lettuce, tomato, and tangy Dijon mayonnaise.",1.8,0.0,1,"['Lentils', 'chargrilled brioche bun', 'baby gem lettuce', 'plum tomato', 'Dijon mayonnaise.  ']",7
+Falafel Salad  ,"Our signature falafel served over a fresh mixed salad, with crunchy cucumbers, juicy tomatoes, red onions, and a creamy tahini dressing.",1.8,0.0,1,"['Falafel', 'mixed leaf salad', 'cucumber', 'plum tomatoes', 'red onion', 'tahini dip.  ']",7
+Egg Shakshuka  ,"Poached eggs simmered in a spiced tomato sauce with peppers and onions, garnished with fresh basil.",4.7,0.0,1,"['Eggs', 'tomato sauce', 'red peppers', 'red onions', 'garlic oil', 'basil.  ']",7
+Vegetable and Tofu Stir-Fry  ,A vibrant stir-fry of crispy tofu and fresh vegetables tossed with noodles in a savory garlic and ginger sesame soy sauce.,3.2,0.0,1,"['Tofu', 'noodles', 'pak choi', 'red peppers', 'red onions', 'garlic & ginger sesame soy.  ']",6
+Tofu Katsu Curry  ,"Succulent tofu coated in crispy panko crumbs, served with mild curry sauce, tangy pickles, and steamed rice.",3.2,0.0,1,"['Tofu in crispy Japanese panko crumb', 'mild curry sauce', 'pickles', 'steamed rice.  ']",6
+Lentil Stuffed Peppers  ,"Roasted bell peppers stuffed with hearty lentils, tomato sauce, and fresh baby spinach, topped with creamy goat's cheese.",1.1,0.0,1,"['Bell peppers', 'lentils', 'tomato sauce', 'baby spinach', ""goat's cheese.  ""]",6
+Butternut Squash and Feta Salad  ,"Sweet roasted butternut squash and tangy feta cheese on a bed of fresh mixed greens, sprinkled with pomegranate seeds and watercress.",0.5,0.0,1,"['Roasted butternut squash', 'feta cheese', 'pomegranate seeds', 'mixed leaf salad', 'watercress.  ']",6
+Vegan Meatball Sub  ,"Hearty vegan meatballs simmered in pomodoro sauce, topped with melted smoked mozzarella, served in a toasted Portuguese roll.",1.8,0.0,1,"['Vegan meatballs', 'pomodoro sauce', 'smoked mozzarella', 'Portuguese roll.  ']",5
+Chickpea and Spinach Curry  ,"A nourishing curry of chickpeas and baby spinach simmered in a mild curry sauce, served with steamed rice.",1.8,0.0,1,"['Chickpeas', 'baby spinach', 'mild curry sauce', 'steamed rice.  ']",5
+Tofu Curry Ramen  ,"Japanese-style ramen with fried tofu and noodles in a delicious curry broth, topped with pak choi and pickled onions.",3.2,0.0,1,"['Fried tofu', 'noodles', 'curry broth', 'pak choi', 'pickled onions.  ']",5
+Mushroom and Lentil Bolognese  ,"Hearty mushrooms and lentils cooked in a rich tomato sauce, served over tagliatelle pasta and garnished with fresh basil.",0.5,0.0,1,"['Mushrooms', 'lentils', 'tagliatelle pasta', 'tomato sauce', 'basil.  ']",4
+Supreme Pizza," Cheese and tomato, onion, mushroom, fresh basil, olive and garlic oil",23.9,0.0,0,,10
+Chicken Curry Ramen, Japanese fried chicken & noodles in a delicious curry broth,9.9,0.5882352941176471,0,,9
+Pork Ribs, Pork Ribs smothered with Kentucky style BBQ sauce,12.3,0.01040582726326743,0,,9
+Butterfly Chicken Burger," Two succulent chicken breasts joined by crispy skin, packaged in a Portuguese roll and topped with tomato and lettuce",9.9,0.5882352941176471,0,,9
+Four Cheese Margherita," Mozzarella, mascarpone, fontal and grana cheese on a tomato base",23.9,0.0,0,,9
+Panchetta Carbonara," crispy pancetta and asparagus in a velvety sauce made with mascarpone, pecorino and Grana Padano cheese",12.3,0.01040582726326743,0,,9
+Chicken Katsu Curry," Succulent chicken in a crispy Japanese panko crumb with mild curry sauce, pickles and steamed rice",9.9,0.5882352941176471,0,,8
+Rustica Chorizo Pizza," Chorizo salami, torn wild boar and pork meatballs, smoked mozzarella and baby sunblush tomatoes",12.3,0.01040582726326743,0,,8
+Beer Battered Fish with Chips, with frites and pea & mint puree,13.6,0.22727272727272727,0,,8
+Pork Porchetta," Slow-roasted pork belly in herbed red wine sauce, served with roasted new potatoes and broccoli",12.3,0.01040582726326743,0,,7
+Butternut Squash Salad," Roasted butternut squash with feta cheese, pomegranate seeds, mixed leaf salad and watercress",0.5,0.0,0,,7
+Aegean Slaw," Thinly shredded cabbage, carrot and red onion peppers, with an olive oil dressing",0.5,0.0,0,,7
+Cured Salmon Sashimi, Dazzling beetroot cured slices of salmon served with lemon,13.6,0.22727272727272727,0,,6
+Falafel with Tahini," Our signature recipe, served with a tahini dip",1.8,0.0,0,,6
+Lentil Linguine Ragu," Rich Italian lentil ragu with baby spinach, tomatoes, basil & pecorino cheese",1.8,0.0,0,,6
+Aromatic Duck Rolls," Aromatic roast duck, hoisin sauce, cucumber, spring onion, rolled in rice paper",9.9,0.0,0,,5
+Vegan Spaghetti Lentil Ragu, A hearty ragu of green lentils and mixed vegetables in a rich tomato and fennel sauce,1.8,0.0,0,,5
+Harusami Aubergine, Fried slices of aubergine with garlic & ginger sesame soy,0.5,0.0,0,,5

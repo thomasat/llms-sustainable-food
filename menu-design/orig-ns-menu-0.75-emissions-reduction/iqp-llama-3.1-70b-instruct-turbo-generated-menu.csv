@@ -1,0 +1,37 @@
+Name,Description,Emissions,Animal Lives,LLM Generated,Ingredients,Predicted Rating
+Grilled Aubergine and Goat's Cheese Salad,A flavorful and refreshing salad perfect for any time of the year.,0.5,0.0,1,"['Grilled aubergine', ""goat's cheese"", 'roasted peppers', 'winter baby kale', 'red pepper', 'cucumber', 'plum tomatoes.']",9
+Stuffed Bell Peppers,A colorful and flavorful vegetarian main course.,1.1,0.0,1,"['Bell peppers', ""goat's cheese"", 'roasted peppers', 'oven roasted tomatoes', 'sage.']",9
+Grilled Halloumi and Vegetable Skewers,A simple yet impressive vegetarian appetizer or snack.,23.9,0.0,1,"['Halloumi cheese', 'roasted peppers', 'oven roasted tomatoes', 'mixed vegetables', 'chilli jam.']",9
+Grilled Portobello Mushroom and Goat's Cheese Salad,A flavorful and refreshing salad perfect for any time of the year.,0.5,0.0,1,"['Grilled Portobello mushroom', ""goat's cheese"", 'roasted peppers', 'winter baby kale', 'red pepper', 'cucumber', 'plum tomatoes.']",9
+Roasted Butternut Squash Risotto,A creamy and comforting dish featuring roasted butternut squash.,0.5,0.0,1,"['Roasted butternut squash', 'Arborio rice', 'mascarpone', 'Grana Padano cheese', 'sage.']",8
+Spaghetti with Roasted Vegetable Ragu,A vibrant and satisfying vegan pasta dish.,1.6,0.0,1,"['Spaghetti', 'roasted butternut squash', 'mixed vegetables', 'tomato and fennel sauce', 'vegan Mozzarella cheese.']",8
+Pan-Seared Portobello Mushroom Burger,A savory and filling vegetarian burger option.,0.5,0.0,1,"['Portobello mushroom', 'baby gem lettuce', 'plum tomato', 'Dijon mayonnaise', 'chargrilled brioche bun.']",8
+Chickpea and Spinach Curry,A nutritious and aromatic curry perfect for a weeknight dinner.,1.8,0.0,1,"['Chickpeas', 'spinach', 'curry broth', 'pak choi', 'pickled onions.']",8
+Spaghetti with Grilled Aubergine and Tomato Sauce,A classic and comforting vegetarian pasta dish.,1.6,0.0,1,"['Spaghetti', 'grilled aubergine', 'tomato sauce', 'vegan Mozzarella cheese', 'fresh basil.']",8
+Roasted Butternut Squash and Sage Risotto,A creamy and comforting vegetarian main course.,0.5,0.0,1,"['Roasted butternut squash', 'Arborio rice', 'mascarpone', 'Grana Padano cheese', 'sage.']",8
+Lentil and Mushroom Bolognese,A hearty and rich vegetarian take on the classic Bolognese.,1.8,0.0,1,"['Lentils', 'mushrooms', 'tomato sauce', 'red wine', 'beef dripping', 'fresh basil.']",7
+Roasted Vegetable and Lentil Tagliatelle,A creative and delicious vegetarian take on the classic pasta dish.,1.6,0.0,1,"['Tagliatelle', 'roasted butternut squash', 'lentils', 'red wine', 'beef dripping', 'fresh bufala mozzarella.']",7
+Lentil and Vegetable Stew,A hearty and comforting vegetarian stew perfect for a cold winter's day.,1.8,0.0,1,"['Lentils', 'mixed vegetables', 'curry broth', 'pak choi', 'pickled onions.']",7
+Spaghetti with Lentil and Mushroom Bolognese,A hearty and rich vegetarian take on the classic Bolognese.,1.6,0.0,1,"['Spaghetti', 'lentils', 'mushrooms', 'tomato sauce', 'red wine', 'beef dripping', 'fresh basil.']",7
+Vegan Lentil and Mushroom Meatballs,A tasty and satisfying vegan alternative to traditional meatballs.,1.8,0.0,1,"['Lentils', 'mushrooms', 'tomato and fennel sauce', 'vegan Mozzarella cheese.']",6
+Roasted Vegetable and Chickpea Wrap,A healthy and convenient vegetarian wrap option.,1.8,0.0,1,"['Chickpeas', 'roasted butternut squash', 'mixed vegetables', 'tomato and fennel sauce', 'vegan Mozzarella cheese.']",6
+Grilled Aubergine and Red Pepper Salad,A flavorful and refreshing salad perfect for any time of the year.,0.5,0.0,1,"['Grilled aubergine', 'roasted peppers', 'winter baby kale', 'red pepper', 'cucumber', 'plum tomatoes.']",6
+Roasted Vegetable and Lentil Polpette,A creative and delicious vegan alternative to traditional meatballs.,1.8,0.0,1,"['Lentils', 'roasted butternut squash', 'mixed vegetables', 'tomato and fennel sauce', 'vegan Mozzarella cheese.']",6
+Pork Ribs, Pork Ribs smothered with Kentucky style BBQ sauce,12.3,0.01040582726326743,0,,9
+Rustica Chorizo Pizza," Chorizo salami, torn wild boar and pork meatballs, smoked mozzarella and baby sunblush tomatoes",12.3,0.01040582726326743,0,,9
+Supreme Pizza," Cheese and tomato, onion, mushroom, fresh basil, olive and garlic oil",23.9,0.0,0,,9
+Halloumi Sticks with Mayo Avocado Dip, Chunky sticks of grilled halloumi cheese with a chilli jam and mayo avocado dip,23.9,0.0,0,,9
+Four Cheese Margherita," Mozzarella, mascarpone, fontal and grana cheese on a tomato base",23.9,0.0,0,,9
+Bufala Caprese, Specialty tomatoes and drizzle of roasted garlic in extra virgin olive oil with Buffalo mozzarella,23.9,0.0,0,,9
+Chicken Curry Ramen, Japanese fried chicken & noodles in a delicious curry broth,9.9,0.5882352941176471,0,,8
+Chicken Katsu Curry," Succulent chicken in a crispy Japanese panko crumb with mild curry sauce, pickles and steamed rice",9.9,0.5882352941176471,0,,8
+Pork Porchetta," Slow-roasted pork belly in herbed red wine sauce, served with roasted new potatoes and broccoli",12.3,0.01040582726326743,0,,8
+Butterfly Chicken Burger," Two succulent chicken breasts joined by crispy skin, packaged in a Portuguese roll and topped with tomato and lettuce",9.9,0.5882352941176471,0,,8
+Beer Battered Fish with Chips, with frites and pea & mint puree,13.6,0.22727272727272727,0,,8
+Falafel with Tahini," Our signature recipe, served with a tahini dip",1.8,0.0,0,,8
+Panchetta Carbonara," crispy pancetta and asparagus in a velvety sauce made with mascarpone, pecorino and Grana Padano cheese",12.3,0.01040582726326743,0,,8
+Butternut Squash Salad," Roasted butternut squash with feta cheese, pomegranate seeds, mixed leaf salad and watercress",0.5,0.0,0,,7
+Aegean Slaw," Thinly shredded cabbage, carrot and red onion peppers, with an olive oil dressing",0.5,0.0,0,,7
+Jack Fruit Arrabiata," Vegan jackfruit peppers, spicy harissa, roquito chilis & vegan Mozzarella cheese, finished with basil",1.1,0.0,0,,6
+Vegan Meatballs, Vegan meatballs in a rich tomato and fennel sauce,3.2,0.0,0,,6
+Lentil Linguine Ragu," Rich Italian lentil ragu with baby spinach, tomatoes, basil & pecorino cheese",1.8,0.0,0,,6
