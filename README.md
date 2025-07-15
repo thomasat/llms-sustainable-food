@@ -7,6 +7,8 @@ Installation instructions:
 - pip install crfm-helm
 - pip install gurobipy
 
+Please email thomasat@stanford.edu with any questions. 
+
 Academic researchers can email thomasat@stanford.edu to access the data and code for the sustainable protein components of the paper. The data cannot be released publicly in order to protect the privacy of the companies. 
 
 Please cite as:
