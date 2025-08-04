@@ -9,7 +9,7 @@ Installation instructions:
 
 Please email thomasat@stanford.edu with any questions. 
 
-Academic researchers can email thomasat@stanford.edu to access the data and code for the sustainable protein components of the paper. The data cannot be released publicly in order to protect the privacy of the companies. 
+Academic researchers can email thomasat@stanford.edu to access the data and code for the sustainable protein components of the paper. The data cannot be released publicly in order to protect the privacy of the participating companies. 
 
 Please cite as:
 
